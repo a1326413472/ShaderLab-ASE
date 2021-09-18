@@ -1,0 +1,16 @@
+ ![Aa]ssets/
+
+
+
+[Ll]ibrary
+[Tt]emp
+[Ll]ogs
+[Oo]bj
+[Cc]aptures
+
+.vs
+.vsconfig
+
+
+*.sln
+*.csproj
